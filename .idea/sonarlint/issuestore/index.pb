@@ -1,0 +1,19 @@
+
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+t
+Dapp/src/main/java/com/tii/dcsmartwatchcode/presentation/BLEserver.kt,8\6\86ff41b3f5e7179dc1559a829f87eb236b635240
+t
+Dapp/src/main/java/com/tii/dcsmartwatchcode/presentation/BLEServer.kt,a\3\a37488dffaa3d09ea42b2e6787c8b0e56dd2d320
+w
+Gapp/src/main/java/com/tii/dcsmartwatchcode/presentation/MainActivity.kt,a\a\aa08f3bfadf94c3174868dd0580a5c1ddcf9b1e0
+x
+Happ/src/main/java/com/tii/dcsmartwatchcode/presentation/HealthMonitor.kt,0\e\0eae841a4caa56ea7226c5c611fcfe4e33c78dc9
+I
+gradle/libs.versions.toml,d\7\d7595319a0658be6f1ed500ad590d42e4b28bc4f
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+†
+Vapp/src/main/java/com/tii/dcsmartwatchcode/presentation/HealthMonitorUpdateCallback.kt,5\9\594380693c4b3aa0b930c28c5b05414f7f7f0454
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
