@@ -1,34 +1,33 @@
 
-dkotlin:S125€"Remove this commented out code.(à¶‡„8íÖíÂÚ2J$214977ea-5433-46b0-b15f-bb28e8f423ea
-ikotlin:S125"Remove this commented out code.(‹•Âøÿÿÿÿ8íÖíÂÚ2J$14e37c3c-e1c6-4373-b874-b13a62fb0a4c
-dkotlin:S125¬"Remove this commented out code.(Ã¢¦ª8íÖíÂÚ2J$9ee2b7ea-86ab-4c4d-899f-cf3d53a4b1df
-bkotlin:S6310í"Avoid hardcoded dispatchers.(©ªŸ³8óÖíÂÚ2J$97287252-1667-4ba7-848d-c211d1456ca3
-bkotlin:S6310“"Avoid hardcoded dispatchers.(©ªŸ³8óÖíÂÚ2J$4dee9e04-6b30-4f2b-bd6c-e1a92609602b
-bkotlin:S6310©"Avoid hardcoded dispatchers.(Ô¥‚ü8óÖíÂÚ2J$116d9959-d213-4572-a0c0-9c71458593df
-bkotlin:S6310ü"Avoid hardcoded dispatchers.(Í¡·Ş8óÖíÂÚ2J$09f8af53-f1de-4447-9945-eda0d3668d7c
-bkotlin:S6310„"Avoid hardcoded dispatchers.(Í¡·Ş8óÖíÂÚ2J$280dba81-61f5-4039-a1fa-9440e310a65f
-ykotlin:S1481¤".Remove this unused "byteArray" local variable.(Å«Æ‹úÿÿÿÿ8ıÖíÂÚ2J$09c3b51f-dbdf-4c58-b821-5e018775b948
-_kotlin:S1128"Remove this unused import.(İ£—ë8†×íÂÚ2J$ac6479fc-6ac2-4539-8630-7adfba349ac2
-_kotlin:S1128"Remove this unused import.(Üº¸¡8†×íÂÚ2J$16a973a8-d337-4b79-a8cd-61ab3f28a06a
-_kotlin:S1128
-"Remove this unused import.(®©‡Ù8†×íÂÚ2J$dcc8a483-3f44-476f-9f2b-159e3d9420d1
-ªkotlin:S1192"eDefine a constant instead of duplicating this literal "00006970-0000-1000-8000-00805f9b34fb" 3 times.(Îôãî8†×íÂÚ2J$4c61b819-c6bc-4da9-bf4b-7240a0a54912
-¯kotlin:S1192"eDefine a constant instead of duplicating this literal "00006971-0000-1000-8000-00805f9b34fb" 3 times.(ë¿èúÿÿÿÿ8†×íÂÚ2J$5e42c933-d34d-4933-a2e2-71fe8dd67e74
-©kotlin:S1192"eDefine a constant instead of duplicating this literal "00006972-0000-1000-8000-00805f9b34fb" 3 times.(ş¼‡%8†×íÂÚ2J$943e9416-d545-4dd3-bc5e-430f3ff7e541
-¯kotlin:S1192"eDefine a constant instead of duplicating this literal "00006973-0000-1000-8000-00805f9b34fb" 3 times.(˜ö„úÿÿÿÿ8†×íÂÚ2J$ae868459-e113-4eb2-9a24-a2712452a907
-¯kotlin:S1192"eDefine a constant instead of duplicating this literal "00006974-0000-1000-8000-00805f9b34fb" 3 times.(‡Ùÿíüÿÿÿÿ8†×íÂÚ2J$5e1f3de9-bdaa-49d9-b443-5515584c147f
-¯kotlin:S1192 "eDefine a constant instead of duplicating this literal "00006975-0000-1000-8000-00805f9b34fb" 3 times.(úşƒ¥üÿÿÿÿ8†×íÂÚ2J$150beccc-d7e0-4800-81b7-fb52d51919d1
-¯kotlin:S1192!"eDefine a constant instead of duplicating this literal "00006976-0000-1000-8000-00805f9b34fb" 3 times.(¢•ûıÿÿÿÿ8†×íÂÚ2J$d3143d71-cce6-4852-8bc9-39b4a6f8b171
-¯kotlin:S1192""eDefine a constant instead of duplicating this literal "00006977-0000-1000-8000-00805f9b34fb" 3 times.(ë¹ıøÿÿÿÿ8†×íÂÚ2J$f45c3bdb-6239-4350-a285-d8d8fa0ec0b4
-ªkotlin:S1192#"eDefine a constant instead of duplicating this literal "00006978-0000-1000-8000-00805f9b34fb" 3 times.(¥Ø°8†×íÂÚ2J$8e17ae0f-1746-46ff-9b79-baed568971a5
-¯kotlin:S1192$"eDefine a constant instead of duplicating this literal "00006979-0000-1000-8000-00805f9b34fb" 3 times.(ûĞ“¬úÿÿÿÿ8†×íÂÚ2J$0327222c-f8b8-4699-baef-8e399a8f35c0
-rkotlin:S6518¶",Replace function call with indexed accessor.(öÜ„Æ8†×íÂÚ2J$dc8a4a68-4dec-4cc8-831e-4ec63247595d
-rkotlin:S6518¸",Replace function call with indexed accessor.(÷ò§„8–×íÂÚ2J$f82c9b06-6f00-489e-8edd-5a2fc0f09027
-wkotlin:S6518º",Replace function call with indexed accessor.(€å˜ıÿÿÿÿ8–×íÂÚ2J$8c984484-9fda-4eec-94a4-aadb8b0cfba1
-wkotlin:S6518¼",Replace function call with indexed accessor.(©ªÚ–ûÿÿÿÿ8–×íÂÚ2J$f3bd8955-e164-4e55-9150-e5320fb8e6b3
-wkotlin:S6518¾",Replace function call with indexed accessor.(ŸºÊˆùÿÿÿÿ8–×íÂÚ2J$237cebc4-e1d8-431e-9d84-c5e4e039d425
-wkotlin:S6518À",Replace function call with indexed accessor.(¢íİÈÿÿÿÿÿ8–×íÂÚ2J$e02897e6-ca4d-49bb-b379-7b30c88bbe3c
-wkotlin:S6518Â",Replace function call with indexed accessor.(ÄäòÈúÿÿÿÿ8–×íÂÚ2J$e87ca600-29d0-4108-8c26-12edb80c7458
-wkotlin:S6518Ä",Replace function call with indexed accessor.(ÚÖ´üÿÿÿÿ8–×íÂÚ2J$42f3e717-d1f0-42e9-8fdf-3c1bf0c88067
-wkotlin:S6518Æ",Replace function call with indexed accessor.(†³Á¬üÿÿÿÿ8–×íÂÚ2J$5f5fd8dc-8f17-459a-a140-ee0f53b126c1
-rkotlin:S6518È",Replace function call with indexed accessor.(İ’ãÔ8–×íÂÚ2J$54317f29-c144-4607-88d1-29e95fe3fc4d
+dkotlin:S125€"Remove this commented out code.(à¶‡„8íÖíÂÚ2J$55782575-8a83-439a-a5e5-e52a4dce56ef
+ikotlin:S125"Remove this commented out code.(‹•Âøÿÿÿÿ8íÖíÂÚ2J$e4280b38-0cd8-45de-bfaa-d1fdaf329060
+<kotlin:S6310í"Avoid hardcoded dispatchers.(©ªŸ³8¡¢ú¾ä2
+<kotlin:S6310“"Avoid hardcoded dispatchers.(©ªŸ³8¡¢ú¾ä2
+<kotlin:S6310©"Avoid hardcoded dispatchers.(Ô¥‚ü8¢¢ú¾ä2
+<kotlin:S6310ü"Avoid hardcoded dispatchers.(Í¡·Ş8¢¢ú¾ä2
+<kotlin:S6310„"Avoid hardcoded dispatchers.(Í¡·Ş8¢¢ú¾ä2
+ykotlin:S1481¤".Remove this unused "byteArray" local variable.(Å«Æ‹úÿÿÿÿ8ıÖíÂÚ2J$03c3970a-026c-4bd4-8c22-2514d10a913f
+_kotlin:S1128"Remove this unused import.(İ£—ë8†×íÂÚ2J$d399b920-268e-4b71-86dc-dae0d32102f4
+_kotlin:S1128"Remove this unused import.(Üº¸¡8†×íÂÚ2J$9c99395b-33a8-4dd4-a8d4-0808e1a8f6d2
+9kotlin:S1128
+"Remove this unused import.(®©‡Ù8¸¢ú¾ä2
+ªkotlin:S1192"eDefine a constant instead of duplicating this literal "00006970-0000-1000-8000-00805f9b34fb" 3 times.(Îôãî8†×íÂÚ2J$72a8c3d7-6199-4d19-9ab9-84db6f852a12
+¯kotlin:S1192"eDefine a constant instead of duplicating this literal "00006971-0000-1000-8000-00805f9b34fb" 3 times.(ë¿èúÿÿÿÿ8†×íÂÚ2J$aa056e75-36cf-4831-8af0-9499df696395
+©kotlin:S1192"eDefine a constant instead of duplicating this literal "00006972-0000-1000-8000-00805f9b34fb" 3 times.(ş¼‡%8†×íÂÚ2J$8425602e-a541-4e05-beb4-55261b4dc772
+¯kotlin:S1192"eDefine a constant instead of duplicating this literal "00006973-0000-1000-8000-00805f9b34fb" 3 times.(˜ö„úÿÿÿÿ8†×íÂÚ2J$a80d70b9-2473-43f4-8b7f-68350d05d4f0
+¯kotlin:S1192"eDefine a constant instead of duplicating this literal "00006974-0000-1000-8000-00805f9b34fb" 3 times.(‡Ùÿíüÿÿÿÿ8†×íÂÚ2J$fe818fcf-d37a-49c7-8f08-cf454e5b610b
+¯kotlin:S1192 "eDefine a constant instead of duplicating this literal "00006975-0000-1000-8000-00805f9b34fb" 3 times.(úşƒ¥üÿÿÿÿ8†×íÂÚ2J$8d7191e6-b53e-4923-a991-d02e08e05de1
+¯kotlin:S1192!"eDefine a constant instead of duplicating this literal "00006976-0000-1000-8000-00805f9b34fb" 3 times.(¢•ûıÿÿÿÿ8†×íÂÚ2J$c9b20f55-a64e-4003-85b8-731408b40404
+¯kotlin:S1192""eDefine a constant instead of duplicating this literal "00006977-0000-1000-8000-00805f9b34fb" 3 times.(ë¹ıøÿÿÿÿ8†×íÂÚ2J$e15c8b85-e30a-4e90-854a-9e91bd0a55a1
+ªkotlin:S1192#"eDefine a constant instead of duplicating this literal "00006978-0000-1000-8000-00805f9b34fb" 3 times.(¥Ø°8†×íÂÚ2J$f71d1d5c-7aef-48e2-9907-fd8c1878dd01
+¯kotlin:S1192$"eDefine a constant instead of duplicating this literal "00006979-0000-1000-8000-00805f9b34fb" 3 times.(ûĞ“¬úÿÿÿÿ8†×íÂÚ2J$3fe61369-c855-408b-9616-8723f335dd28
+Lkotlin:S6518¶",Replace function call with indexed accessor.(öÜ„Æ8Ê¢ú¾ä2
+Lkotlin:S6518¸",Replace function call with indexed accessor.(÷ò§„8Ê¢ú¾ä2
+Qkotlin:S6518º",Replace function call with indexed accessor.(€å˜ıÿÿÿÿ8Ê¢ú¾ä2
+Qkotlin:S6518¼",Replace function call with indexed accessor.(©ªÚ–ûÿÿÿÿ8Ê¢ú¾ä2
+Qkotlin:S6518¾",Replace function call with indexed accessor.(ŸºÊˆùÿÿÿÿ8Ê¢ú¾ä2
+Qkotlin:S6518À",Replace function call with indexed accessor.(¢íİÈÿÿÿÿÿ8Ê¢ú¾ä2
+Qkotlin:S6518Â",Replace function call with indexed accessor.(ÄäòÈúÿÿÿÿ8Ê¢ú¾ä2
+Qkotlin:S6518Ä",Replace function call with indexed accessor.(ÚÖ´üÿÿÿÿ8Ê¢ú¾ä2
+Qkotlin:S6518Æ",Replace function call with indexed accessor.(†³Á¬üÿÿÿÿ8Ê¢ú¾ä2
+Lkotlin:S6518È",Replace function call with indexed accessor.(İ’ãÔ8Ê¢ú¾ä2

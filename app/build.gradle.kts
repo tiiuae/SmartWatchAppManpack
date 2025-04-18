@@ -62,5 +62,7 @@ dependencies {
 	debugImplementation(libs.ui.test.manifest)
 	debugImplementation(libs.tiles.tooling)
 	implementation("androidx.health:health-services-client:1.1.0-alpha03")
+	implementation ("androidx.lifecycle:lifecycle-livedata-ktx:2.6.2")
+	implementation ("androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2")
 
 }

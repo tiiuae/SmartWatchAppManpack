@@ -296,9 +296,6 @@ class  BLEServer(private val context: Context) {
 				CoroutineScope(Dispatchers.Main).launch {
 					withContext(Dispatchers.IO) {
 						try {
-
-						/*	var data = "Smartwatch Data $count".toByteArray()
-							count++*/
 							var datatype = dataToChar[characteristic.uuid.toString()]
 							var data = healthData[datatype]?.toByteArray()
 							Log.i("BLE",characteristic.uuid.toString() +"--"+datatype +"--"+ healthData[datatype])

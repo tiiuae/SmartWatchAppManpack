@@ -71,6 +71,31 @@ class HealthMonitorUpdateCallback : ExerciseUpdateCallback {
 				}
 			}
 		}
+
+		/*"Steps" to "Unknown"
+			, "Absolute Elevation" to "Unknown"
+			, "Speed" to "Unknown"
+			, "HeartRate" to "Unknown"
+			, "Step per minute" to "Unknown"
+			, "Pace" to "Unknown"
+			, "Distance" to "Unknown"
+			, "Floors" to "Unknown"
+			, "Calories" to "Unknown"
+			, "Elevation Gain" to "Unknown"*/
+
+		var healthDataValue: HealthDataClass(
+
+			healthDataValue.Steps = data,
+			healthDataValue.AbsoluteElevation = data,
+			healthDataValue.Speed = data ,
+			healthDataValue.HeartRate = data,
+			healthDataValue.Steps = data,
+			healthDataValue.Pace = data ,
+			healthDataValue.Distance = data ,
+			healthDataValue.Floors = data ,
+			healthDataValue.Calories = data ,
+			healthDataValue.Elevation =data
+		)
 	}
 
 	override fun onRegistrationFailed(throwable: Throwable) {
